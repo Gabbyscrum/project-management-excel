@@ -1,0 +1,3 @@
+Perfect for laying out your roadmap before a project begins, this project plan template helps you define key phases, tasks, and timelines in one place. It is well-suited for any team preparing a structured kickoff. You'll be able to organize milestones, assign owners, and forecast durations with clarity. The format helps create a shared vision that keeps everyone focused on execution from day one.
+
+kick off, plan, and launch projects with a streamlined, consistent approach—built for team collaboration, real-time visibility, and smarter decision-making every step of the way.
