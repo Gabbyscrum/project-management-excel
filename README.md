@@ -8,7 +8,8 @@ Here is the `.README` format you requested, with **markdown-compatible image ref
 
 If you're working in sprints and in need of a flexible planning tool, this Agile project plan template fits the bill. It’s tailored for iterative work cycles such as Scrum or Kanban. Track user stories, backlogs, and sprint assignments in a format that's easy to update as the team iterates. It’s a no-fuss way to manage velocity, priorities, and sprint goals.
 
-!\[Screenshot]\(Agile Project Plan/screenshot.png)
+![Screenshot](./Agile%20Project%20Plan/screenshot.PNG)
+
 
 ---
 
